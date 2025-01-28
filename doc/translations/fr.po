@@ -2338,7 +2338,7 @@ msgid "AES cipher blocker chaining encryption mode."
 msgstr "Mode de chiffrement par chaînage AES."
 
 msgid "AES cipher blocker chaining decryption mode."
-msgstr "Mode de déchiffrement par chaînage du bloqueur de chiffrement AES."
+msgstr "Mode de déchiffrement par chaînage du code AES"
 
 msgid "Maximum value for the mode enum."
 msgstr "Valeur maximale pour le mode énumeration."
